@@ -18,3 +18,4 @@
 
 //tao do
 ///////////taoag
+fix a bug after stash
